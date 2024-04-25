@@ -1,4 +1,7 @@
 # Ships.
+
+[![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 ## This is a console game written in C++.
 ### Description
 A simple game Battleship. Consult https://en.wikipedia.org/wiki/Battleship_(game) for an overview.
